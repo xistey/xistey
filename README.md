@@ -1,128 +1,177 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=header"/>
-
-<!-- BANNER -->
+<!-- Header Wave -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/banner.jpg" width="100%" alt="banner"/>
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
 </div>
 
-<!-- TITLE -->
+<!-- Banner -->
+<a href="https://github.com/xistey">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:c9a84c&height=4" alt="divider"/>
+</a>
+
+<!-- Typing Title -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=xistey;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://github.com/xistey" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=xistey&label=Profile%20views&color=c9a84c&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/xistey?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/xistey?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+  </a>
+  <a href="https://github.com/xistey?tab=followers" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/xistey?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+  </a>
+  <a href="https://github.com/xistey?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/xistey" />
+  </a>
 </div>
 
 <br/>
 
-<!-- CONTACT -->
+<!-- About Me -->
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-am%C3%A2ncio)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://persona-rho-nine.vercel.app)
-
+  <h3>💫 About Me</h3>
 </div>
 
-<br/>
+<img align="right" alt="coding-gif" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=devbarcelos&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-**Backend Developer in Training**
-
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
-
-<img align="right" width="240px" src="https://raw.githubusercontent.com/najuiamnc/najuiamnc/main/char.jpg" alt="Bloodborne Hunter"/>
-
-```
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
-```
+<p>
+  🌱 I'm a Full Stack Developer passionate about building robust applications.<br/>
+  🔭 I work with JavaScript, TypeScript, Node.js, React, Next.js, Go, and Python.<br/>
+  💬 I love exploring new technologies and creating open-source projects.<br/>
+  ⚡ Currently focused on backend development and cloud computing.<br/>
+  🎯 Goal: Contribute to the open-source community and build impactful tools.<br/>
+</p>
 
 <br clear="right"/>
 
----
-
-## Technologies
-
+<!-- Contact -->
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
+  <h3>📫 Connect With Me</h3>
+  <a href="https://xtey.rip" target="_blank">
+    <img width="40px" src="https://img.icons8.com/fluency/48/globe.png" alt="Website" />
+  </a>
+  <a href="https://github.com/xistey" target="_blank">
+    <img width="40px" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+  </a>
+  <a href="mailto:xistey@example.com">
+    <img width="40px" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" />
+  </a>
 </div>
 
+<br/>
+
 ---
 
-## Statistics
-
+<!-- Languages & Tools -->
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xistey&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=xistey">
-
-<br/><br/>
-
+  <h3>🛠️ Languages & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,go,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mongodb,mysql,sqlite,postgres" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,neovim,figma" /><br/>
 </div>
 
+<br/>
+
 ---
 
-## 📜 Contribution Graph
-
+<!-- Tech Stack Badges -->
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xistey&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/xistey)
-
+  <h3>💻 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi" />
 </div>
 
----
-
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | Systems Analysis & Development | 🔄 In Progress |
-| ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
-| ◈ | Microsoft AI-900 Certification | ✅ Complete |
-| ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
+<br/>
 
 ---
 
-## 🗡️ Featured Projects
-
-
-
+<!-- GitHub Stats -->
 <div align="center">
-
-
+  <h3>📊 GitHub Statistics</h3>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xistey&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xistey&layout=compact&theme=nord&border_radius=8" />
+  <br/><br/>
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=xistey&theme=nord&hide_border=false" />
 </div>
 
+<br/>
+
 ---
 
-  ![Snake animation](https://github.com/xistey/xistey/blob/main/github-contribution-grid-snake.svg)
-
- 
+<!-- Contribution Graph -->
 <div align="center">
-
-*† Seek Paleblood to transcend the Hunt †*
-
+  <h3>📈 Contribution Graph</h3>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xistey&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=true&border_color=2a2a2a&title_color=c9a84c" />
 </div>
+
+<br/>
+
+---
+
+<!-- Featured Repositories -->
+<div align="center">
+  <h3>⭐ Featured Projects</h3>
+  <p align="center">
+    <a href="https://github.com/xistey/todo-api">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=todo-api&theme=nord" />
+    </a>
+    <a href="https://github.com/xistey/ecommerce-api">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=ecommerce-api&theme=nord" />
+    </a>
+    <a href="https://github.com/xistey/chat-app">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=chat-app&theme=nord" />
+    </a>
+    <a href="https://github.com/xistey/markdown-blog">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=markdown-blog&theme=nord" />
+    </a>
+    <a href="https://github.com/xistey/url-shortener">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=url-shortener&theme=nord" />
+    </a>
+    <a href="https://github.com/xistey/password-vault">
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xistey&repo=password-vault&theme=nord" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/xistey/xistey/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+</p>
+
+<p align="center">
+  ⚡ Built with ❤️ by <strong>xistey</strong>
+</p>
